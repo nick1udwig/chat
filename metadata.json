@@ -8,7 +8,7 @@
         "publisher": "template.os",
         "mirrors": [],
         "code_hashes": {
-            "0.1.0": ""
+            "0.1.0": "0x181a5372e1c60fd137f1d4f4d7f2eb9acc0590a93e2b99061823d4568447ff37"
         },
         "wit_version": 0,
         "dependencies": []
