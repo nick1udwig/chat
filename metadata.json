@@ -6,7 +6,9 @@
         "package_name": "chat",
         "current_version": "0.1.0",
         "publisher": "template.os",
-        "mirrors": [],
+        "mirrors": [
+            "template.os"
+        ],
         "code_hashes": {
             "0.1.0": "5064fb60b36bc68757bdd92ec170278e4caef417bfb43cd9eb49654a75a0c2d3"
         },
