@@ -7,7 +7,7 @@
         "current_version": "0.1.0",
         "publisher": "fortitude.os",
         "mirrors": [
-            "template.os"
+            "fortitude.os"
         ],
         "code_hashes": {
             "0.1.0": "3b29ad38665410b411fcaa3d029dd4c736da1103e70b15a9463b64a0dcf48490"
